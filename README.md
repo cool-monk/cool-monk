@@ -17,17 +17,9 @@ Here are some ideas to get you started:
 
 ![gif](https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif)
 
-### Hi there，I'm Subranium 🙋‍♂️
+### Hi there，I'm Rajiv Ranjan
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](http://superssssss.cn/)
-
-- Master's degree in NEU. Backend, cloud native and deep learning are involved.
-
-| CSDN                                      | juejin                                            | blog                           |
-| ----------------------------------------- | ------------------------------------------------- | ------------------------------ |
-| [CSDN](https://blog.csdn.net/s_842499467) | [juejin](https://juejin.im/user/4125023359999181) | [blog](http://superssssss.cn/) |
-
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
