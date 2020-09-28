@@ -57,7 +57,7 @@ const Rajiv_Ranjan = {
   updatingMyself: [ReactJs],
   code: [Javascript, HTML, CSS, Nodejs, Express, Mongo, python],
   tools: [Git, Linux, VSCode],
-  architecture: ["MVC", "event-driven", "design system pattern"],
+  architecture: ["MVC", "SPA",],
   challenge:
     "I am doing the #30DaysOfCode challenge focused on ReactJs and Leetcode",
 };
