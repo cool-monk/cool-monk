@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 Hi, I'm [Rajiv Ranjan](https://www.linkedin.com/in/rajiv-ranjan-3bb775a9/), a Full Stack Developer 🚀 from India looking for the New Role.
 
-  <img align="right" alt="GIF" src="https://github.com/cool-monk/cool-monk/blob/master/code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/cool-monk/cool-monk/blob/master/code.gif" width="500" height="250" />
 
 - 👨🏽‍💻 I’m currently working on something cool
 - 🌱 I’m currently learning ReactJs
