@@ -27,18 +27,18 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Rajiv Ranjan](https://www.linkedin.com/in/rajiv-ranjan-3bb775a9/), a Full Stack Developer 🚀 from India looking for the New Role.
+Hi, I'm [Rajiv Ranjan](https://www.linkedin.com/in/rajiv-ranjan-3bb775a9/), a Full Stack Developer 🚀 from Nepal looking for the New Role.
 
   <img align="right" alt="GIF" src="https://github.com/cool-monk/cool-monk/blob/master/code.gif" width="500" height="250" />
 
-- 👨🏽‍💻 I’m currently working on something cool
-- 🌱 I’m currently learning ReactJs
+- 👨🏽‍💻 &nbsp;I’m currently working on something cool
+- 🌱 &nbsp;I’m currently learning ReactJs
 
-- 💬 Ask me about Nodejs, ReactJs
+- 💬 &nbsp;Ask me about Nodejs, ReactJs
 
-- 📫 How to reach me: [Rajiv Ranjan](https://www.linkedin.com/in/rajiv-ranjan-3bb775a9/);
+- 📫 &nbsp;How to reach me: [Rajiv Ranjan](https://www.linkedin.com/in/rajiv-ranjan-3bb775a9/);
 
-- 📝[Resume](https://drive.google.com/file/d/1RzKT_dMIEj1M4WjjSHhRzkFADf0R3IX1/view?usp=sharing)
+- 📝 &nbsp;[Resume](https://drive.google.com/file/d/1RzKT_dMIEj1M4WjjSHhRzkFADf0R3IX1/view?usp=sharing)
 
 **Languages and Tools:**
 
@@ -53,12 +53,23 @@ Hi, I'm [Rajiv Ranjan](https://www.linkedin.com/in/rajiv-ranjan-3bb775a9/), a Fu
 ### <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="20"> A little more about me...
 
 ```javascript
-const Rajiv_Ranjan = {
-  updatingMyself: [ReactJs],
-  code: [Javascript, HTML, CSS, Nodejs, Express, Mongo, python],
+const rajivRanjan = {
+  updatingMyself: [ReactJS],
+  code: [
+    JavaScript,
+    Python,
+    ReactJS,
+    NodeJS,
+    Express.js,
+    MongoDB,
+    Google Firebase,
+    jQuery,
+    HTML,
+    CSS,
+  ],
   tools: [Git, Linux, VSCode],
-  architecture: ["MVC", "SPA",],
+  architecture: ["MVC", "SPA"],
   challenge:
-    "I am doing the #30DaysOfCode challenge focused on ReactJs and Leetcode",
+    "I am doing the #30DaysOfCode challenge focused on ReactJS and Leetcode",
 };
 ```
