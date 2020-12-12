@@ -32,9 +32,9 @@ Hi, I'm [Rajiv Ranjan](https://www.linkedin.com/in/rajiv-ranjan-3bb775a9/), a Fu
   <img align="right" alt="GIF" src="https://github.com/cool-monk/cool-monk/blob/master/code.gif" width="500" height="250" />
 
 - 👨🏽‍💻 &nbsp;I’m currently working on something cool
-- 🌱 &nbsp;I’m currently learning ReactJs
+- 🌱 &nbsp;I’m currently learning ReactJS
 
-- 💬 &nbsp;Ask me about Nodejs, ReactJs
+- 💬 &nbsp;Ask me about NodeJS, ReactJS
 
 - 📫 &nbsp;How to reach me: [Rajiv Ranjan](https://www.linkedin.com/in/rajiv-ranjan-3bb775a9/);
 
@@ -62,10 +62,8 @@ const rajivRanjan = {
     NodeJS,
     Express.js,
     MongoDB,
-    Google Firebase,
     jQuery,
-    HTML,
-    CSS,
+    GoogleFirebase,
   ],
   tools: [Git, Linux, VSCode],
   architecture: ["MVC", "SPA"],
